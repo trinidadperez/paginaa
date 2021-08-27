@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.25rem;
+  margin: 0 auto;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  background-color: #F0E5CF;
+  position: relative;
+  padding-top: 75px;
+}
+
+.subtitulo{
+  font-size: 1.5rem;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.emoji-chica{
+  width: 70px;
+  margin-top: 30px;
+}
+.diccionario-dibujo{
+  width:100px;
+  margin-top: 10px;
+  float: left;
+  margin-right: 15px;
+}
+.computadora-dibujo{
+  width: 100px;
+  border-radius: 100%;
+  float: right;
+}
+.middle-container{
+  background-color: #F7F6F2;
+  padding-bottom: 20px;
+}
+.bottom-container{
+background-color: #F3F0D7;
+padding-top: 10px;
+
+}
+.fin{
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 10px
+}
+.btn{
+  padding-top: 20px;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #E8D0B3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CEE5D0;
+  text-decoration: none;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.linea{
+  margin: 0;
+}
+.habilidades{
+  margin-top: 50px;
+}
+.parrafo1{
+  margin-bottom: 50px;
+}
+.linea1{
+  border-style: dotted dotted none;
+  height:5px;
+  width: 15%;
+  color: #C8C6C6;
+  border-width: 7px;
+}
+a{
+  text-decoration: none;
+  margin: auto 10px;
+}
+a:hover{
+  color: #7EB5A6;
+}
